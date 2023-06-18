@@ -16,3 +16,7 @@ var first = 1;
 var second = 2;
 var sum = first + second;
 ```
+## Task list
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
